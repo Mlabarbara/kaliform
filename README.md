@@ -20,7 +20,7 @@ Each VM is configured with:
 
 - Proxmox Virtual Environment (PVE) server
 - Terraform installed (version compatible with provider `telmate/proxmox` 2.9.14)
-- A Kali Linux template VM named `template-kalilinux` in your Proxmox environment
+- A Kali Linux template VM named `template-kalilinux` in your Proxmox environment ###(***must cloud-init image***)
 - Valid Proxmox API tokens
 - SSH key pair for VM access
 
