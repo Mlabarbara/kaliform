@@ -1,6 +1,6 @@
 # Kaliform - Terraform Configuration for Kali Linux VMs
 
-This repository contains Terraform configurations for automatically deploying multiple Kali Linux virtual machines on a Proxmox virtualization environment. The setup creates two sets of Kali Linux instances with specific network configurations and hardware allocations.
+This repository contains Terraform configurations for automatically deploying multiple Kali Linux virtual machines on a Proxmox virtualization environment. The setup creates two sets of Kali Linux instances with specific network configurations and hardware allocations. Done from my MacBook.
 
 ## Overview
 
