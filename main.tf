@@ -7,6 +7,8 @@ terraform {
   }
 }
 
+# use proxmox provider
+
 provider "proxmox" {
   pm_api_url = var.pm_api_url
   pm_api_token_id = var.pm_api_token_id
