@@ -10,3 +10,4 @@ variable "pm_api_token_secret" {
 variable "ssh_key" {
   description = "SSH public key for user root for the proxmox server"
 }
+
