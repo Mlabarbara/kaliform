@@ -1,1 +1,1 @@
-Create something in the terminal inside of VS code, add, commit, push.
+Create something in the terminal inside of VS code, add, commit, push
